@@ -1,6 +1,5 @@
-# Rock-paper-Scissors Game
- 
-##The output will look like this:\
+# Rock-paper-Scissors Game 
+## The output will look like this:
  ROCK, PAPER, SCISSORS\
  0 Wins, 0 Losses, 0 Ties\
  Enter your move: (r)ock (p)aper (s)cissors or (q)uit\
