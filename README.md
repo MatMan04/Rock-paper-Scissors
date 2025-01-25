@@ -87,4 +87,3 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 ---
 
 Enjoy the game! 🎉
-```
