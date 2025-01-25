@@ -1,6 +1,6 @@
 # Rock-paper-Scissors Game
  
-##The output will look like this:\  
+##The output will look like this:\
  ROCK, PAPER, SCISSORS\
  0 Wins, 0 Losses, 0 Ties\
  Enter your move: (r)ock (p)aper (s)cissors or (q)uit\
@@ -18,4 +18,4 @@
  Flow Control   \
 1 Wins, 1 Losses, 1 Ties\
  Enter your move: (r)ock (p)aper (s)cissors or (q)uit\
- q\
+ q  
